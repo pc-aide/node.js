@@ -8,6 +8,10 @@
 
 * pizza-luvrs - root folder
 
+## Git
+* From the Author:
+* https://github.com/ryanmurakami/pizza-luvrs
+
 ## s3 as repository
 
 * we will use **//<BucketName.com**
