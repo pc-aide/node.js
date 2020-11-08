@@ -11,6 +11,7 @@ node -v
 ---
 
 ## npm
+
 * File
     * /usr/lib/node_modules/npm
 ````bash
@@ -21,7 +22,9 @@ npm -v
 [<img src="https://i.imgur.com/DBoNdwL.png">](https://i.imgur.com/DBoNdwL.png)
 
 ### install
+
 * It will create after that. **node_modules**
+* **NB**: if you change the code, so rm -rf node_modules
 ````bash
 npm install
 ````
