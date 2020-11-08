@@ -124,3 +124,11 @@ module.exports.save = (name, data) => {
 
 [<img src="https://i.imgur.com/MxyG9CW.png">](https://i.imgur.com/MxyG9CW.png)
 [<img src="https://i.imgur.com/VEmyepb.png">](https://i.imgur.com/VEmyepb.png)
+
+---
+
+## EC2 + IAM role attach
+* error on EC2
+
+[<img src="https://i.imgur.com/VIpabN1.png">](https://i.imgur.com/VIpabN1.png)
+[<img src="https://i.imgur.com/blKOSKu.png">](https://i.imgur.com/blKOSKu.png)
