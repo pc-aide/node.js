@@ -2,7 +2,7 @@
 
 ## Prereq
 
-* aws configure
+* aws configure with permissions S3
 
 ## File
 
