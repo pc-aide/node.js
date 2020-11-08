@@ -14,7 +14,7 @@
 
 ## s3 as repository
 
-* we will use **//<BucketName.com**
+* we will use **//BucketName.com**
 * e.g: //demo-01-nodejs.s3.ca-central-1.amazonaws.com/
 
 ### ./templates
