@@ -119,3 +119,8 @@ module.exports.save = (name, data) => {
 
 [<img src="https://i.imgur.com/QmJLRLX.png">](https://i.imgur.com/QmJLRLX.png)
 [<img src="https://i.imgur.com/i9hOUxB.png">](https://i.imgur.com/i9hOUxB.png)
+
+* with another account:
+
+[<img src="https://i.imgur.com/MxyG9CW.png">](https://i.imgur.com/MxyG9CW.png)
+[<img src="https://i.imgur.com/VEmyepb.png">](https://i.imgur.com/VEmyepb.png)
