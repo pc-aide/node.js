@@ -1,5 +1,16 @@
 # 01 - Install
 
+## NodeJS-v15
+````bash
+# Using Ubuntu
+curl -sL https://deb.nodesource.com/setup_15.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
+# Using Debian, as root
+curl -sL https://deb.nodesource.com/setup_15.x | bash -
+apt-get install -y nodejs
+````
+
 ## version
 ````bash
 node -v
